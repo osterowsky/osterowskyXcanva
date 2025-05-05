@@ -1,6 +1,6 @@
 # osterowskyXcanva
 
-Welcome to the official page for the canva developer's webiste: "osterowsky".
+Welcome to the official page for the Canva developer's webiste
 
 ## 📄 Important Links
 
